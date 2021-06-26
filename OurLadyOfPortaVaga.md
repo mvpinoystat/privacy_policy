@@ -32,4 +32,4 @@ Privacy Statement
    to review this policy for any changes. This policy is effective as of 2021-04-18
    
    If you have any questions or suggestions about my Privacy Policy,
-   do not hesitate to contact me at darkprogs@gmail.com.
+   do not hesitate to contact me at brightdayapps@gmail.com.
