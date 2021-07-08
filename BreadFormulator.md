@@ -1,6 +1,6 @@
 **Privacy Statement**     
 
-I built the **Home and Business Bread Recipe Maker app** as an Ad Supported app. I shared this App to you at no cost to you and is intended for use as is. It does not gather any personal information. However, it does gather some information using third party services. These information are logs for app usage statistics to improve the app. Please look at the link below to know the specific information being gathered by **Google and how Google uses information from sites or apps that uses Google\\'s service:**      
+I built the **Bread Recipe Inventor** as an Ad Supported app. I shared this App to you at no cost to you and is intended for use as is. It does not gather any personal information. However, it does gather some information using third party services. These information are logs for app usage statistics to improve the app. Please look at the link below to know the specific information being gathered by **Google and how Google uses information from sites or apps that uses Google\\'s service:**      
 
 [https://policies.google.com/privacy/partners](https://policies.google.com/privacy/partners)         
 
