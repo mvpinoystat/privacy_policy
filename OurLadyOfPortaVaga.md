@@ -5,11 +5,10 @@ Privacy Statement
    to know the specific information being gathered by **Google and how Google uses information from sites or apps that uses Google\'s service:** 
 
    https://policies.google.com/privacy/partners
-  
-
-
    
-   Links to Other Sites
+   The above link also indicates how you can control the information collected by Google on sites and apps.
+   
+   **Links to Other Sites**
 
    This app contains links that when clicked may direct you to a third party site.
    Note that these external sites are not operated by me.
@@ -19,7 +18,7 @@ Privacy Statement
    privacy policies, or practices
    of any third-party sites or services.
 
-   Changes to This Privacy Policy:   
+   **Changes to This Privacy Policy:**   
    
    This Privacy Policy may be updated during software updates. Thus you are advised
    to review this policy for any changes. This policy is effective as of 2021-10-28
