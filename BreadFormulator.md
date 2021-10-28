@@ -14,4 +14,4 @@ This app contains links that when clicked may direct you to a third party site. 
 
 **Changes to This Privacy Policy**     
 
-This Privacy Policy may be updated during software updates. Thus you are advised to review this policy for any changes. This policy is effective as of Oct 25, 2021. If you have any questions or suggestions to improve my Privacy Policy, drop me an email at brightdayapps@gmail.com.     
+This Privacy Policy may be updated during software updates. Thus you are advised to review this policy for any changes. This policy is effective as of Oct 28, 2021. If you have any questions or suggestions to improve my Privacy Policy, drop me an email at brightdayapps@gmail.com.     
