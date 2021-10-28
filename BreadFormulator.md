@@ -2,7 +2,9 @@
 
 I built the **Bread Recipe Inventor** as an Ad Supported app. It does not gather any personal information. However,since this app is published in Google play Store and is an ad supported app,  it therefore uses Google's service.  Please look at the link below to know the specific information being gathered by **Google and how Google uses information from sites or apps that uses Google\'s service:** 
 
-[https://policies.google.com/privacy/partners](https://policies.google.com/privacy/partners)         
+[https://policies.google.com/privacy/partners](https://policies.google.com/privacy/partners) 
+
+The above link also indicates how you can control the information collected by Google on sites and apps.
 
 **Recipe Data**     
 
