@@ -22,7 +22,7 @@ Privacy Statement
    Changes to This Privacy Policy:   
    
    This Privacy Policy may be updated during software updates. Thus you are advised
-   to review this policy for any changes. This policy is effective as of 2021-10-25
+   to review this policy for any changes. This policy is effective as of 2021-10-28
    
    If you have any questions or suggestions about this Privacy Policy, please
    send an email at brightdayapps@gmail.com.
