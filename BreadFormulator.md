@@ -1,6 +1,6 @@
 **Privacy Statement**     
 
-I built the **Bread Recipe Inventor** as an Ad Supported app. It does not gather any personal information. However,since this app is published in Google play Store and is an ad supported app,  Google may share information to the developer such as app crash logs and stack traces to improve app performance.  Please look at the link below to know the specific information being gathered by **Google and how Google uses information from sites or apps that uses Google\'s service:**      
+I built the **Bread Recipe Inventor** as an Ad Supported app. It does not gather any personal information. However,since this app is published in Google play Store and is an ad supported app,  it uses Google's service.  Please look at the link below to know the specific information being gathered by **Google and how Google uses information from sites or apps that uses Google\'s service:**      
 
 [https://policies.google.com/privacy/partners](https://policies.google.com/privacy/partners)         
 
