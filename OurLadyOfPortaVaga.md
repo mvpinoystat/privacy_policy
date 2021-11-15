@@ -6,7 +6,7 @@
 
    https://policies.google.com/privacy/partners
    
-   The above link also indicates how you can control the information collected by Google on your mobile device.
+   The above link also indicates how you can control information collected by Google on your mobile device.
    
    **Links to Other Sites**
 
