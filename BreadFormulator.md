@@ -1,10 +1,12 @@
 **Privacy Statement**     
 
-I built the **Bread Recipe Inventor** as an Ad Supported app. It does not collect any personal information. However,since this app is published in Google play Store and is an ad supported app,  it therefore uses Google's services.  Please look at the link below to know the specific information being gathered by Google and how **Google uses information from sites or apps that uses Google\'s service:** 
+BrightDayApps built the **Bread Recipe Inventor** app as an Ad supported app. It does not collect any personal information. 
+However,since this app is published in Google play Store and is an Ad supported app,  it therefore uses Google's services. Please look at the link below
+to know the specific information Google gathers and how **Google uses information from sites or apps that uses Google\'s service:** 
 
-[https://policies.google.com/privacy/partners](https://policies.google.com/privacy/partners) 
+https://policies.google.com/privacy/partners
 
-The above link also indicates how you can control the information collected by Google on sites and apps.
+The above link also indicates how you can control information collected by Google on your mobile device.
 
 **Recipe Data**     
 
