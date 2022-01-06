@@ -14,8 +14,8 @@
         to signed-in accounts on the device for the purpose of serving ads. \n \n
 
         In addition, please look at the link below to know the specific
-        information Google gathers and how <b>Google uses information from sites or apps that
-        uses Google\'s service:</b>
+        information Google gathers and how ***Google uses information from sites or apps that
+        uses Google\'s service:***
 
         \n\n <a href="https://policies.google.com/privacy/partners">
         https://policies.google.com/privacy/partners </a>  \n \n
