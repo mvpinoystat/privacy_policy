@@ -1,6 +1,6 @@
  **Privacy Statement**
  
- This app **The Our Lady Of Porta Vaga** is free for you to download and use. does not gather or store any of your personal data. It is published in  Google Play Store which provides crash data and other statistics which helps the developer maintain the app.  Please check out the link below to know the specific information Google gathers and how ***Google uses information from sites or apps that uses Google\'s service:***
+ This app **The Our Lady Of Porta Vaga** is free for you to download and use. It does not gather or store any of your personal data. It is published in  Google Play Store which provides crash data and other statistics which helps the developer maintain the app.  Please check out the link below to know the specific information Google gathers and how ***Google uses information from sites or apps that uses Google\'s service:***
 
 https://policies.google.com/privacy/partners
         
