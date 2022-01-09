@@ -1,11 +1,6 @@
  **Privacy Statement**
  
- This app **The Our Lady Of Porta Vaga** is free for you to download and use. To further enhance your experience , it needs advertisement to fund its development and maintenance requirements. On its own without advertisement, the app does not obtain any information from you the user. However, since this is not the case, it gets some information as consequence of using  Google\'s mobile ads platform .    
- 
-By default it gathers these data :    
-**IP address** - use to estimate general location of the device, **User product interaction** - app launch, taps and video views , **Diagnostic information** - information related to the app's performance including ***crash logs, app launch time,hang rate, and energy usage.*** It also obtains ***Device and Account Identifiers*** - these are Android advertising (ad) ID, app set ID and, if applicable, other identifiers related to signed-in accounts on the device for the purpose of serving ads.    
-
-In addition, please look at the link below to know the specific information Google gathers and how ***Google uses information from sites or apps that uses Google\'s service:***
+ This app **The Our Lady Of Porta Vaga** is free for you to download and use. does not gather or store any of your personal data. It is published in  Google Play Store which provides crash data and other statistics which helps the developer maintain the app.  Please check out the link below to know the specific information Google gathers and how ***Google uses information from sites or apps that uses Google\'s service:***
 
 https://policies.google.com/privacy/partners
         
